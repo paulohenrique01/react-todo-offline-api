@@ -4,7 +4,7 @@
   "description": "Api do projeto todo offline",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^1.6.0",
     "cors": "^2.8.3",
     "express": "^4.15.3",
     "morgan": "^1.8.1"
